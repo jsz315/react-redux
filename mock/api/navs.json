@@ -1,0 +1,52 @@
+[
+    {
+        "url": "https://gw.alicdn.com/tfs/TB1Wxi2trsrBKNjSZFpXXcXhFXa-183-144.png_.webp",
+        "name": "天猫",
+        "id": 0
+    },
+    {
+        "url": "https://img.alicdn.com/tfs/TB10UHQaNjaK1RjSZKzXXXVwXXa-183-144.png?getAvatar=1_.webp",
+        "name": "聚划算",
+        "id": 1
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB11rTqtj7nBKNjSZLeXXbxCFXa-183-144.png?getAvatar=1_.webp",
+        "name": "天猫国际",
+        "id": 2
+    },
+    {
+        "url": "https://gw.alicdn.com/tps/TB1eXc7PFXXXXb4XpXXXXXXXXXX-183-144.png?getAvatar=1_.webp",
+        "name": "外卖",
+        "id": 3
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB1IKqDtpooBKNjSZFPXXXa2XXa-183-144.png_.webp",
+        "name": "天猫超市",
+        "id": 4
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB1o0FLtyMnBKNjSZFoXXbOSFXa-183-144.png_.webp",
+        "name": "充值中心",
+        "id": 5
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB15nKhtpkoBKNjSZFEXXbrEVXa-183-144.png?getAvatar=1_.webp",
+        "name": "飞猪旅行",
+        "id": 6
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB1BqystrZnBKNjSZFrXXaRLFXa-183-144.png?getAvatar=1_.webp",
+        "name": "领金币",
+        "id": 7
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB1CMf4tlnTBKNjSZPfXXbf1XXa-183-144.png?getAvatar=1_.webp",
+        "name": "拍卖",
+        "id": 8
+    },
+    {
+        "url": "https://gw.alicdn.com/tfs/TB18P98tyQnBKNjSZFmXXcApVXa-183-144.png?getAvatar=1_.webp",
+        "name": "分类",
+        "id": 9
+    }
+]
